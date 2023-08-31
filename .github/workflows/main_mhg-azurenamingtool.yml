@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'MHG-AzureNamingTool'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_03FE34D14F57420C9E56761E18CBD387 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_677FD8369809424D81AB48FBE09B048D }}
           package: .
